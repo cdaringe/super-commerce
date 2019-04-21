@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/koa": "^2.0.48",
+    "@types/node": "^11.13.6",
+    "@types/pg": "^7.4.14",
+    "typescript": "^3.4.4"
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "pg": "^7.10.0",
+    "postgraphile": "^4.3.3"
+  }
+}
